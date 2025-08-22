@@ -6,11 +6,22 @@
 		</title>
 		<link>https://kakaocloud.com/</link>
 		<language>ko</language>
-		<pubDate>Fri, 22 Aug 2025 16:10:00 +0900</pubDate>
+		<pubDate>Fri, 22 Aug 2025 17:00:00 +0900</pubDate>
 		<generator>Status Board Service RSS Generator</generator>
 		<description>
 			<![CDATA[ status board test ]]>
 		</description>
+		<item>
+			<title>
+				<![CDATA[ [!!업데이트됨2222!!] Virtual Machine 서비스 장애 안내 (08/21) ]]>
+			</title>
+			<link>https://kakaocloud.com/</link>
+			<pubDate>Fri, 22 Aug 2025 17:00:00 +0900</pubDate>
+			<guid isPermaLink="false">https://kakaocloud.com/services/virtual-machine/intro_20250822_3</guid>
+			<description>
+				<![CDATA[ Virtual Machine 서비스의 장애가 해결되어 정상적으로 복구되었습니다.222 ]]>
+			</description>
+		</item>
 		<item>
 			<title>
 				<![CDATA[ [!!업데이트됨!!] Virtual Machine 서비스 장애 안내 (08/21) ]]>
