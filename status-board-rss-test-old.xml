@@ -14,22 +14,11 @@
 		<ttl>5</ttl>
 		<item>
 			<title>
-				<![CDATA[[해결 완료] Virtual Machine 서비스 복구 (08/22)]]>
-			</title>
-			<link>https://kakaocloud.com/</link>
-			<pubDate>Thu, 22 Aug 2025 09:00:00 PDT</pubDate>
-			<guid isPermaLink="false">https://kakaocloud.com/services/virtual-machine/intro_20250822_1</guid>
-			<description>
-				<![CDATA[Virtual Machine 서비스의 장애가 해결되어 정상적으로 복구되었습니다.]]>
-			</description>
-		</item>
-		<item>
-			<title>
 				<![CDATA[[처리 중] Virtual Machine 서비스 장애 안내 (08/21)]]>
 			</title>
 			<link>https://kakaocloud.com/</link>
 			<pubDate>Thu, 21 Aug 2025 13:07:00 PDT</pubDate>
-			<guid isPermaLink="false">https://kakaocloud.com/services/virtual-machine/intro</guid>
+			<guid isPermaLink="false">https://kakaocloud.com/services/virtual-machine/intro_20250822_1</guid>
 			<description>
 				<![CDATA[신규 생성 VM ssh 접속 실패 (기존 VM 영향 없음)추가 확인되는 내용은 업데이트 하겠습니다.]]>
 			</description>
@@ -40,7 +29,7 @@
 			</title>
 			<link>https://kakaocloud.com/</link>
 			<pubDate>Thu, 10 Aug 2025 23:00:00 PDT</pubDate>
-			<guid isPermaLink="false">https://kakaocloud.com/services/virtual-machine/intro</guid>
+			<guid isPermaLink="false">https://kakaocloud.com/services/virtual-machine/intro_20250822_0</guid>
 			<description>
 				<![CDATA[Virtual Machine 서비스가 정상적으로 동작하지 않아 확인 중에 있습니다. 장애 영향도를 파악하여 안내할 예정입니다.]]>
 			</description>
