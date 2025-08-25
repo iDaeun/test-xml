@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>
+			<![CDATA[ 카카오 클라우드 Status Board ]]>
+		</title>
+		<link>https://kakaocloud.com/</link>
+		<language>ko</language>
+		<lastBuildDate>Thu, 23 Aug 2025 22:00:00 +0900</lastBuildDate>
+		<generator>Status Board Service RSS Generator</generator>
+		<description>
+			<![CDATA[ 카카오클라우드 Status Board 서비스는 카카오 클라우드 서비스 상태를 실시간으로 확인할 수 있습니다. 서비스 상태와 관련된 이슈 이벤트에 대한 정보가 실시간 반영되어 빠르게 확인할 수 있습니다. ]]>
+		</description>
+		<item>
+			<title>
+				<![CDATA[ [해결됨] Virtual Machine 서비스가 정상적으로 동작하지 않습니다. ]]>
+			</title>
+			<link>https://kakaocloud.com/</link>
+			<pubDate>Thu, 23 Aug 2025 22:00:00 +0900</pubDate>
+			<guid isPermaLink="false">20250822_3</guid>
+			<description>
+				<![CDATA[ 문제가 해결되어 서비스가 정상 조치되었습니다.  ]]>
+			</description>
+		</item>
+		<item>
+			<title>
+				<![CDATA[ [처리 중] Virtual Machine 서비스가 정상적으로 동작하지 않습니다. ]]>
+			</title>
+			<link>https://kakaocloud.com/</link>
+			<pubDate>Thu, 23 Aug 2025 20:30:00 +0900</pubDate>
+			<guid isPermaLink="false">20250822_2</guid>
+			<description>
+				<![CDATA[ 원인을 파악하여, VM ssh 접속 실패에 대한 긴급 패치 작업을 실시하였습니다. ]]>
+			</description>
+		</item>
+		<item>
+			<title>
+				<![CDATA[ [확인 필요] Virtual Machine 서비스가 정상적으로 동작하지 않습니다. ]]>
+			</title>
+			<link>https://kakaocloud.com/</link>
+			<pubDate>Thu, 23 Aug 2025 20:00:00 +0900</pubDate>
+			<guid isPermaLink="false">20250822_1</guid>
+			<description>
+				<![CDATA[ 이벤트 영향: 신규 VM ssh 접속 실패 발생 ]]>
+			</description>
+		</item>
+		<item>
+			<title>
+				<![CDATA[ [확인 필요] Virtual Machine 서비스가 정상적으로 동작하지 않습니다. ]]>
+			</title>
+			<link>https://kakaocloud.com/</link>
+			<pubDate>Thu, 23 Aug 2025 19:00:00 +0900</pubDate>
+			<guid isPermaLink="false">20250822_0</guid>
+			<description>
+				<![CDATA[ Virtual Machine 서비스가 정상적으로 동작하지 않습니다. ]]>
+			</description>
+		</item>
+	</channel>
+</rss> 
