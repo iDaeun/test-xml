@@ -4,8 +4,15 @@
     <link>https://status.kakaocloud-stg.com</link>
     <description><![CDATA[카카오클라우드 Status Board 서비스는 카카오 클라우드 서비스 상태를 실시간으로 확인할 수 있습니다. 서비스 상태와 관련된 이슈 이벤트에 대한 정보가 실시간 반영되어 빠르게 확인할 수 있습니다.]]></description>
     <language>ko</language>
-    <lastBuildDate>Mon, 29 Sep 2025 20:25:18 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 21:20:12 +0900</lastBuildDate>
     <generator>Status Board Service RSS Generator</generator>
+    <item>
+      <title><![CDATA[LB 서비스 에러]]></title>
+      <link>https://status.kakaocloud-stg.com/eccbb559-5cd3-4205-88e6-211de32bb020</link>
+      <description><![CDATA[기존 코멘트들의 guid는 그대로 두고, 새로운 코멘트만 추가됨 ]]></description>
+      <pubDate>Mon, 29 Sep 2025 21:20:56 +0900</pubDate>
+      <guid isPermaLink="false">292a38b2-88bb-431f-9aa9-0000</guid>
+    </item>
     <item>
       <title><![CDATA[LB 서비스 에러]]></title>
       <link>https://status.kakaocloud-stg.com/eccbb559-5cd3-4205-88e6-211de32bb020</link>
