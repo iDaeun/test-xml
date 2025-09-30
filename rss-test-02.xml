@@ -1,0 +1,24 @@
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[카카오 클라우드 Status Board]]></title>
+    <link>https://status.kakaocloud-stg.com</link>
+    <description><![CDATA[카카오클라우드 Status Board 서비스는 카카오 클라우드 서비스 상태를 실시간으로 확인할 수 있습니다. 서비스 상태와 관련된 이슈 이벤트에 대한 정보가 실시간 반영되어 빠르게 확인할 수 있습니다.]]></description>
+    <language>ko</language>
+    <lastBuildDate>Tue, 30 Sep 2025 10:46:37 +0900</lastBuildDate>
+    <generator>Status Board Service RSS Generator</generator>
+    <item>
+      <title><![CDATA[[확인필요] LB 서비스 에러]]></title>
+      <link>https://status.kakaocloud-stg.com/eccbb559-5cd3-4205-88e6-211de32bb020</link>
+      <description><![CDATA[신규 VPC 생성 불가 ]]></description>
+      <pubDate>Mon, 29 Sep 2025 20:23:56 +0900</pubDate>
+      <guid isPermaLink="false">8c479ed1-9ff7-44e8-aa14-7dd0d806e316</guid>
+    </item>
+    <item>
+      <title><![CDATA[[확인필요] VM 서비스 접근 에러]]></title>
+      <link>https://status.kakaocloud-stg.com/6bc98e35-4781-428e-bf8f-9d1eab2855fd</link>
+      <description><![CDATA[VM 서비스 접근 에러 발생]]></description>
+      <pubDate>Fri, 26 Sep 2025 17:37:28 +0900</pubDate>
+      <guid isPermaLink="false">7bcd42e6-022c-4eef-96f8-226ab34eacf2</guid>
+    </item>
+  </channel>
+</rss>
