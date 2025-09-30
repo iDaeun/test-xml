@@ -4,7 +4,7 @@
     <link>https://status.kakaocloud-stg.com</link>
     <description><![CDATA[카카오클라우드 Status Board 서비스는 카카오 클라우드 서비스 상태를 실시간으로 확인할 수 있습니다. 서비스 상태와 관련된 이슈 이벤트에 대한 정보가 실시간 반영되어 빠르게 확인할 수 있습니다.]]></description>
     <language>ko</language>
-    <lastBuildDate>Tue, 30 Sep 2025 13:20:44 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 13:27:27 +0900</lastBuildDate>
     <generator>Status Board Service RSS Generator</generator>
     <item>
       <title><![CDATA[[확인필요] LB 서비스 에러]]></title>
@@ -14,21 +14,28 @@
       <guid isPermaLink="false">8c479ed1-9ff7-44e8-aa14-7dd0d806e316</guid>
     </item>
     <item>
-      <title><![CDATA[[확인필요] VM 서비스 접근 에러]]></title>
+      <title><![CDATA[[처리 중] VM 서비스 접근 에러]]></title>
+      <link>https://status.kakaocloud-stg.com/6bc98e35-4781-428e-bf8f-9d1eab2855fd</link>
+      <description><![CDATA[VM 에러 조치 중 ]]></description>
+      <pubDate>Mon, 29 Sep 2025 13:24:46 +0900</pubDate>
+      <guid isPermaLink="false">f0c4819a-b7f6-42de-8762-c1b437d24ce4</guid>
+    </item>
+    <item>
+      <title><![CDATA[[처리 중] VM 서비스 접근 에러]]></title>
       <link>https://status.kakaocloud-stg.com/6bc98e35-4781-428e-bf8f-9d1eab2855fd</link>
       <description><![CDATA[VPC 원인 파악 완료, 조치 중 ]]></description>
       <pubDate>Sat, 27 Sep 2025 11:00:00 +0900</pubDate>
       <guid isPermaLink="false">08d0a224-1202-446d-9ef5-b490b817ec08</guid>
     </item>
     <item>
-      <title><![CDATA[[확인필요] VM 서비스 접근 에러]]></title>
+      <title><![CDATA[[처리 중] VM 서비스 접근 에러]]></title>
       <link>https://status.kakaocloud-stg.com/6bc98e35-4781-428e-bf8f-9d1eab2855fd</link>
       <description><![CDATA[VPC 통신 지연 발생]]></description>
       <pubDate>Sat, 27 Sep 2025 10:52:26 +0900</pubDate>
       <guid isPermaLink="false">a9236770-430f-435c-acc0-f98157a07a1b</guid>
     </item>
     <item>
-      <title><![CDATA[[확인필요] VM 서비스 접근 에러]]></title>
+      <title><![CDATA[[처리 중] VM 서비스 접근 에러]]></title>
       <link>https://status.kakaocloud-stg.com/6bc98e35-4781-428e-bf8f-9d1eab2855fd</link>
       <description><![CDATA[VM 서비스 접근 에러 발생]]></description>
       <pubDate>Fri, 26 Sep 2025 17:37:28 +0900</pubDate>
