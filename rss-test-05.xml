@@ -1,0 +1,1053 @@
+<rss version="2.0">
+    <channel>
+        <title><![CDATA[카카오 클라우드 Status Board]]></title>
+        <link>https://status.kakaocloud-stg.com</link>
+        <description><![CDATA[카카오클라우드 Status Board 서비스는 카카오 클라우드 서비스 상태를 실시간으로 확인할 수 있습니다. 서비스 상태와 관련된 이슈 이벤트에 대한 정보가 실시간 반영되어 빠르게 확인할 수 있습니다.]]></description>
+        <language>ko</language>
+        <lastBuildDate>Mon, 24 Nov 2025 16:20:38 +0900</lastBuildDate>
+        <generator>Status Board Service RSS Generator</generator>
+        <item>
+            <title><![CDATA[[확인필요] karen-test]]></title>
+            <link>https://status.kakaocloud-stg.com/events/b26346e7-803f-4803-a190-50445b785864</link>
+            <description><![CDATA[karen-test 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Sat, 29 Nov 2025 17:20:23 +0900</pubDate>
+            <guid isPermaLink="false">255a234c-5307-4c76-a123-f03169921705</guid>
+        </item>
+        <item>
+            <title><![CDATA[[확인필요] june-temp1124]]></title>
+            <link>https://status.kakaocloud-stg.com/events/a78327cd-c3d5-44f5-94bf-2ae502671243</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Mon, 24 Nov 2025 14:08:43 +0900</pubDate>
+            <guid isPermaLink="false">53b1c24a-d97e-440f-928e-48b742da89b8</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] karen-test]]></title>
+            <link>https://status.kakaocloud-stg.com/events/a4b7a55d-e3e2-40b5-b565-5beab6c53d90</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Mon, 24 Nov 2025 13:13:01 +0900</pubDate>
+            <guid isPermaLink="false">c10b1716-94a1-4104-8485-3d1af88b0423</guid>
+        </item>
+        <item>
+            <title><![CDATA[[처리 중] vincent]]></title>
+            <link>https://status.kakaocloud-stg.com/events/31eb3a91-ff18-44c5-9990-925223192ca0</link>
+            <description><![CDATA[- 장애 현황:a
+- 진행 상황:b
+- 다음 업데이트 시간:ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc]]></description>
+            <pubDate>Mon, 24 Nov 2025 13:10:01 +0900</pubDate>
+            <guid isPermaLink="false">2e8eaee1-364c-4b23-8ba2-ad03c724e564</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] june-temp2]]></title>
+            <link>https://status.kakaocloud-stg.com/events/9d7348bb-3113-4ed0-a487-7a3a8705af2c</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Mon, 24 Nov 2025 11:40:50 +0900</pubDate>
+            <guid isPermaLink="false">0d801946-f57d-4895-b657-48966d33b829</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] june-temp2]]></title>
+            <link>https://status.kakaocloud-stg.com/events/9d7348bb-3113-4ed0-a487-7a3a8705af2c</link>
+            <description><![CDATA[- 영향도:ㅁㅁ]]></description>
+            <pubDate>Mon, 24 Nov 2025 11:38:34 +0900</pubDate>
+            <guid isPermaLink="false">a6abb202-bc2f-45c1-98ca-a16b71d1695d</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] karen-test]]></title>
+            <link>https://status.kakaocloud-stg.com/events/a4b7a55d-e3e2-40b5-b565-5beab6c53d90</link>
+            <description><![CDATA[karen-test 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Sat, 22 Nov 2025 16:56:00 +0900</pubDate>
+            <guid isPermaLink="false">2e018822-c5e0-4e70-b46a-8d0937dd50e2</guid>
+        </item>
+        <item>
+            <title><![CDATA[[확인필요] karen-test]]></title>
+            <link>https://status.kakaocloud-stg.com/events/b26346e7-803f-4803-a190-50445b785864</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Fri, 21 Nov 2025 17:31:56 +0900</pubDate>
+            <guid isPermaLink="false">9ffff73c-446a-444f-b41a-a7f7eb427a42</guid>
+        </item>
+        <item>
+            <title><![CDATA[[확인필요] karen-test]]></title>
+            <link>https://status.kakaocloud-stg.com/events/b26346e7-803f-4803-a190-50445b785864</link>
+            <description><![CDATA[- 장애 현황:
+- 진행 상황:
+- 다음 업데이트 시간:]]></description>
+            <pubDate>Fri, 21 Nov 2025 16:58:52 +0900</pubDate>
+            <guid isPermaLink="false">80d1af15-d837-4d12-b89c-65d972fbcc34</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vincent test]]></title>
+            <link>https://status.kakaocloud-stg.com/events/83b5a865-8872-4355-8aa0-f5f489d18c19</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Fri, 21 Nov 2025 16:37:55 +0900</pubDate>
+            <guid isPermaLink="false">dcc5c6d7-878a-451c-8412-e227c9d07cf6</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vincent test]]></title>
+            <link>https://status.kakaocloud-stg.com/events/83b5a865-8872-4355-8aa0-f5f489d18c19</link>
+            <description><![CDATA[- 장애 현황:123
+- 진행 상황:456
+- 다음 업데이트 시간:789
+kk]]></description>
+            <pubDate>Fri, 21 Nov 2025 16:32:25 +0900</pubDate>
+            <guid isPermaLink="false">4d104b82-9195-4fac-ba7a-a916d467fa7d</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vpc 이슈 - chloe]]></title>
+            <link>https://status.kakaocloud-stg.com/events/d1586853-8346-450c-8459-17930b1a306b</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Fri, 21 Nov 2025 14:05:00 +0900</pubDate>
+            <guid isPermaLink="false">825f2fef-f13f-4db4-949e-d8cfe798c5ff</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 시점설정-test-karen]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e1ce3eb4-51a1-4b5b-b6a6-2faf0aa6f050</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Fri, 21 Nov 2025 13:21:00 +0900</pubDate>
+            <guid isPermaLink="false">bb2d9218-5698-4af4-b6c2-fcb9e7541645</guid>
+        </item>
+        <item>
+            <title><![CDATA[[확인필요] 테스트]]></title>
+            <link>https://status.kakaocloud-stg.com/events/fa26cf3a-fc53-4b34-9156-afb8fba1a5fe</link>
+            <description><![CDATA[- 영향도: 테스트 ]]></description>
+            <pubDate>Fri, 21 Nov 2025 13:13:47 +0900</pubDate>
+            <guid isPermaLink="false">6923a717-76eb-411d-a6cf-ad4fedef29fc</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 시점설정-test-karen]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e1ce3eb4-51a1-4b5b-b6a6-2faf0aa6f050</link>
+            <description><![CDATA[- 영향도: ㄱ]]></description>
+            <pubDate>Fri, 21 Nov 2025 13:00:00 +0900</pubDate>
+            <guid isPermaLink="false">188188c1-1c68-403f-a5e3-0a18f6f5d759</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[[확인필요] luke">
+        <img src="x">]]></title>
+            <link>https://status.kakaocloud-stg.com/events/f0666eb3-9ad6-4017-baaa-bc4ebd120f64</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Fri, 21 Nov 2025 07:57:17 +0900</pubDate>
+            <guid isPermaLink="false">d245f573-97ec-4db2-a9a0-e96fd6c7d561</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 시점설정-test-karen]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e1ce3eb4-51a1-4b5b-b6a6-2faf0aa6f050</link>
+            <description><![CDATA[- 장애 현황:
+- 진행 상황:
+- 다음 업데이트 시간:]]></description>
+            <pubDate>Thu, 20 Nov 2025 18:14:00 +0900</pubDate>
+            <guid isPermaLink="false">b960b211-38d7-41e1-bab6-586bd4fbe89f</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vpc-test-diane]]></title>
+            <link>https://status.kakaocloud-stg.com/events/ba649b47-07cf-4378-b8cb-9f95512bfff7</link>
+            <description><![CDATA[메일발송 안함]]></description>
+            <pubDate>Thu, 20 Nov 2025 17:37:48 +0900</pubDate>
+            <guid isPermaLink="false">11c774b3-0305-4d7a-8e1e-7700d595afab</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 메일발송test_karen]]></title>
+            <link>https://status.kakaocloud-stg.com/events/fb141a23-6612-4e42-ad26-80688d0bab71</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Thu, 20 Nov 2025 17:34:36 +0900</pubDate>
+            <guid isPermaLink="false">bdedbd8a-e435-4b12-a00e-a265a73bfaf1</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vpc-test-diane-2]]></title>
+            <link>https://status.kakaocloud-stg.com/events/dc372f8f-533e-451f-9982-85284c41e79a</link>
+            <description><![CDATA[메일발송 함]]></description>
+            <pubDate>Thu, 20 Nov 2025 17:33:50 +0900</pubDate>
+            <guid isPermaLink="false">106e13e9-2ae8-4a6d-a3b3-cd3334761454</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 메일발송test_karen]]></title>
+            <link>https://status.kakaocloud-stg.com/events/fb141a23-6612-4e42-ad26-80688d0bab71</link>
+            <description><![CDATA[- 장애 현황:
+- 진행 상황:
+- 다음 업데이트 시간:]]></description>
+            <pubDate>Thu, 20 Nov 2025 17:33:44 +0900</pubDate>
+            <guid isPermaLink="false">6e857f94-f3df-4de0-bd60-184da82c3e72</guid>
+        </item>
+        <item>
+            <title><![CDATA[[확인필요] vincent test]]></title>
+            <link>https://status.kakaocloud-stg.com/events/24cb746a-5c23-45a4-8152-fa5bf02965ce</link>
+            <description><![CDATA[karen-test2 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Thu, 20 Nov 2025 17:33:29 +0900</pubDate>
+            <guid isPermaLink="false">16150fa5-20bc-41a2-9c16-0e7e24d52b74</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] june-event-t1]]></title>
+            <link>https://status.kakaocloud-stg.com/events/babcb4e9-4cc8-470b-b1ea-f78f5a1433ad</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Thu, 20 Nov 2025 17:33:05 +0900</pubDate>
+            <guid isPermaLink="false">807d4db1-5d88-4e24-9fef-09f80b51d119</guid>
+        </item>
+        <item>
+            <title><![CDATA[[확인필요] Test vincent]]></title>
+            <link>https://status.kakaocloud-stg.com/events/37ae8e52-9bae-45b7-bb22-54a2dca35103</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Thu, 20 Nov 2025 17:32:42 +0900</pubDate>
+            <guid isPermaLink="false">c39329d7-2229-44f4-a532-80c2e4a3bbb5</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vpc-test-diane-3]]></title>
+            <link>https://status.kakaocloud-stg.com/events/384fce0d-13eb-4e18-b368-320fd5c5eb5d</link>
+            <description><![CDATA[메일 발송 안함]]></description>
+            <pubDate>Thu, 20 Nov 2025 17:32:32 +0900</pubDate>
+            <guid isPermaLink="false">8b95b6c2-32f4-426e-a4ce-6da0d4116c4d</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 메일발송test_karen]]></title>
+            <link>https://status.kakaocloud-stg.com/events/fb141a23-6612-4e42-ad26-80688d0bab71</link>
+            <description><![CDATA[karen-연관서비스 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Thu, 20 Nov 2025 17:32:07 +0900</pubDate>
+            <guid isPermaLink="false">b0d506fc-3546-44ea-b30a-b9e68193e684</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 시점설정-test-karen]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e1ce3eb4-51a1-4b5b-b6a6-2faf0aa6f050</link>
+            <description><![CDATA[karen-test 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Thu, 20 Nov 2025 17:30:30 +0900</pubDate>
+            <guid isPermaLink="false">6e71ab33-497f-47dd-8fd7-f817e4dd5668</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] june-event-t1]]></title>
+            <link>https://status.kakaocloud-stg.com/events/babcb4e9-4cc8-470b-b1ea-f78f5a1433ad</link>
+            <description><![CDATA[- 장애 현황:
+- 진행 상황:
+- 다음 업데이트 시간:]]></description>
+            <pubDate>Thu, 20 Nov 2025 17:24:38 +0900</pubDate>
+            <guid isPermaLink="false">673245dd-bf08-4276-9e45-ae2cfb86448d</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] june-event-t1]]></title>
+            <link>https://status.kakaocloud-stg.com/events/babcb4e9-4cc8-470b-b1ea-f78f5a1433ad</link>
+            <description><![CDATA[Load Balancer 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Thu, 20 Nov 2025 17:13:52 +0900</pubDate>
+            <guid isPermaLink="false">eaaad576-2dcc-47a6-b402-bc0195ad2467</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vpc-test-diane-3]]></title>
+            <link>https://status.kakaocloud-stg.com/events/384fce0d-13eb-4e18-b368-320fd5c5eb5d</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Thu, 20 Nov 2025 17:01:49 +0900</pubDate>
+            <guid isPermaLink="false">1f9caa83-6b4e-4a9a-8446-805c84477190</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vpc-test-diane-2]]></title>
+            <link>https://status.kakaocloud-stg.com/events/dc372f8f-533e-451f-9982-85284c41e79a</link>
+            <description><![CDATA[- 장애 현황:
+- 진행 상황:
+- 다음 업데이트 시간:]]></description>
+            <pubDate>Thu, 20 Nov 2025 16:59:27 +0900</pubDate>
+            <guid isPermaLink="false">844b3576-ac12-416a-b6f7-9c66a29e05e0</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vpc-test-diane]]></title>
+            <link>https://status.kakaocloud-stg.com/events/ba649b47-07cf-4378-b8cb-9f95512bfff7</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Thu, 20 Nov 2025 15:51:35 +0900</pubDate>
+            <guid isPermaLink="false">e1093497-d429-4031-a592-758755ac2020</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vm 생성 오류]]></title>
+            <link>https://status.kakaocloud-stg.com/events/27c60ed3-83e9-4df9-929b-3f951fc0abeb</link>
+            <description><![CDATA[- 영향도: 정상문구 확인을 위해 해결됨 설정]]></description>
+            <pubDate>Thu, 20 Nov 2025 15:08:13 +0900</pubDate>
+            <guid isPermaLink="false">15f98428-3031-4d93-92a9-99a398e6ce76</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] KE 오류-chloe]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e17ebe87-17d9-487c-ba08-76d232101db7</link>
+            <description><![CDATA[- 영향도: 정상문구 확인을 위해 해결됨 설정]]></description>
+            <pubDate>Thu, 20 Nov 2025 15:07:23 +0900</pubDate>
+            <guid isPermaLink="false">c964c80b-489d-4285-96af-0c6f5b021b76</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 연관서비스 테스트]]></title>
+            <link>https://status.kakaocloud-stg.com/events/40b4fcb1-6c0f-42e9-87af-4c2119371507</link>
+            <description><![CDATA[- 영향도: 없음]]></description>
+            <pubDate>Thu, 20 Nov 2025 15:06:32 +0900</pubDate>
+            <guid isPermaLink="false">9a6a26d7-3c13-49e9-bd8c-3616376a76b1</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vpc 이슈 - chloe]]></title>
+            <link>https://status.kakaocloud-stg.com/events/d1586853-8346-450c-8459-17930b1a306b</link>
+            <description><![CDATA[- 영향도: vpc 해결됨]]></description>
+            <pubDate>Thu, 20 Nov 2025 14:05:00 +0900</pubDate>
+            <guid isPermaLink="false">5642f6e7-9146-48ee-b10c-a25807a83b45</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vpc 이슈 - chloe]]></title>
+            <link>https://status.kakaocloud-stg.com/events/d1586853-8346-450c-8459-17930b1a306b</link>
+            <description><![CDATA[- 장애 현황: dns 이슈 '해결됨'
+- 진행 상황:
+- 다음 업데이트 시간:]]></description>
+            <pubDate>Thu, 20 Nov 2025 14:04:00 +0900</pubDate>
+            <guid isPermaLink="false">0a2d768c-1ae9-4ffb-a232-568d21ea72dd</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vpc 이슈 - chloe]]></title>
+            <link>https://status.kakaocloud-stg.com/events/d1586853-8346-450c-8459-17930b1a306b</link>
+            <description><![CDATA[- 장애 현황: dns도 '처리 중' 추가 완료
+- 진행 상황:
+- 다음 업데이트 시간:]]></description>
+            <pubDate>Thu, 20 Nov 2025 14:03:00 +0900</pubDate>
+            <guid isPermaLink="false">43d9a456-28d0-48ea-99a1-a43d75806d1b</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vpc 이슈 - chloe]]></title>
+            <link>https://status.kakaocloud-stg.com/events/d1586853-8346-450c-8459-17930b1a306b</link>
+            <description><![CDATA[- 영향도: dns '처리 중' 변경]]></description>
+            <pubDate>Thu, 20 Nov 2025 14:02:08 +0900</pubDate>
+            <guid isPermaLink="false">a7af5859-f5a8-4505-9f5a-9a6d7085d4c1</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vpc 이슈 - chloe]]></title>
+            <link>https://status.kakaocloud-stg.com/events/d1586853-8346-450c-8459-17930b1a306b</link>
+            <description><![CDATA[- 영향도: dns 추가]]></description>
+            <pubDate>Thu, 20 Nov 2025 14:00:32 +0900</pubDate>
+            <guid isPermaLink="false">2fe92334-2f09-4909-9e18-7bbe0df478e9</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vpc 이슈 - chloe]]></title>
+            <link>https://status.kakaocloud-stg.com/events/d1586853-8346-450c-8459-17930b1a306b</link>
+            <description><![CDATA[VPC 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Thu, 20 Nov 2025 13:56:23 +0900</pubDate>
+            <guid isPermaLink="false">0af95024-1abe-4f39-9061-3ca3d2e54111</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 연관서비스 테스트]]></title>
+            <link>https://status.kakaocloud-stg.com/events/40b4fcb1-6c0f-42e9-87af-4c2119371507</link>
+            <description><![CDATA[- 장애 현황: test
+- 진행 상황: test
+- 다음 업데이트 시간: test]]></description>
+            <pubDate>Thu, 20 Nov 2025 11:45:25 +0900</pubDate>
+            <guid isPermaLink="false">821d923d-2ed8-4fbb-833e-de7cda2fe1b9</guid>
+        </item>
+        <item>
+            <title><![CDATA[[확인필요] Test vincent]]></title>
+            <link>https://status.kakaocloud-stg.com/events/37ae8e52-9bae-45b7-bb22-54a2dca35103</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Thu, 20 Nov 2025 11:34:46 +0900</pubDate>
+            <guid isPermaLink="false">37d091ba-c29e-402c-b13e-91fd698e3905</guid>
+        </item>
+        <item>
+            <title><![CDATA[[확인필요] Test vincent]]></title>
+            <link>https://status.kakaocloud-stg.com/events/37ae8e52-9bae-45b7-bb22-54a2dca35103</link>
+            <description><![CDATA[karen-연관서비스 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Thu, 20 Nov 2025 11:33:50 +0900</pubDate>
+            <guid isPermaLink="false">1db4b7cc-3253-43bf-8aac-67cdea626677</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 연관서비스 테스트]]></title>
+            <link>https://status.kakaocloud-stg.com/events/40b4fcb1-6c0f-42e9-87af-4c2119371507</link>
+            <description><![CDATA[- 영향도: test]]></description>
+            <pubDate>Thu, 20 Nov 2025 11:24:59 +0900</pubDate>
+            <guid isPermaLink="false">9616a0f0-fce4-4af0-8968-7057bd94ac1f</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 연관서비스 테스트]]></title>
+            <link>https://status.kakaocloud-stg.com/events/40b4fcb1-6c0f-42e9-87af-4c2119371507</link>
+            <description><![CDATA[연관 서비스 테스트]]></description>
+            <pubDate>Thu, 20 Nov 2025 11:08:10 +0900</pubDate>
+            <guid isPermaLink="false">3da059b7-a6fc-417c-99b4-132cfb7de1d0</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] KE 오류-chloe]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e17ebe87-17d9-487c-ba08-76d232101db7</link>
+            <description><![CDATA[- 장애 현황: ob 해결됨
+- 진행 상황:
+- 다음 업데이트 시간:]]></description>
+            <pubDate>Thu, 20 Nov 2025 10:44:00 +0900</pubDate>
+            <guid isPermaLink="false">ebb79ab5-f3ea-44b6-a535-c939e37902c4</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] KE 오류-chloe]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e17ebe87-17d9-487c-ba08-76d232101db7</link>
+            <description><![CDATA[- 장애 현황: ob 상태 업데이트
+- 진행 상황:
+- 다음 업데이트 시간:]]></description>
+            <pubDate>Thu, 20 Nov 2025 10:43:04 +0900</pubDate>
+            <guid isPermaLink="false">d528949a-59ce-475b-9bde-d2385fadde99</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] KE 오류-chloe]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e17ebe87-17d9-487c-ba08-76d232101db7</link>
+            <description><![CDATA[- 장애 현황:rrrr
+- 진행 상황:
+- 다음 업데이트 시간:]]></description>
+            <pubDate>Thu, 20 Nov 2025 10:42:05 +0900</pubDate>
+            <guid isPermaLink="false">92dc1d51-f308-4254-8bf9-ac135a660365</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] karen-test event1]]></title>
+            <link>https://status.kakaocloud-stg.com/events/ac92295d-3c76-4ca6-95e4-d0cddda876f5</link>
+            <description><![CDATA[- 영향도: 없음]]></description>
+            <pubDate>Thu, 20 Nov 2025 10:06:14 +0900</pubDate>
+            <guid isPermaLink="false">ebd98807-68fc-4185-bbfe-5b6e3e592421</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] karen-test event1]]></title>
+            <link>https://status.kakaocloud-stg.com/events/ac92295d-3c76-4ca6-95e4-d0cddda876f5</link>
+            <description><![CDATA[- 영향도:]]></description>
+            <pubDate>Thu, 20 Nov 2025 10:06:00 +0900</pubDate>
+            <guid isPermaLink="false">8751383b-e3ed-4b0a-b1e5-8ea24c26544a</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] KE 오류-chloe]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e17ebe87-17d9-487c-ba08-76d232101db7</link>
+            <description><![CDATA[영향도: 확인 중입니다.]]></description>
+            <pubDate>Thu, 20 Nov 2025 10:00:00 +0900</pubDate>
+            <guid isPermaLink="false">ab65438b-28ce-4feb-94c2-46bf79519b36</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] KE 오류-chloe]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e17ebe87-17d9-487c-ba08-76d232101db7</link>
+            <description><![CDATA[- 영향도: 확인 중입니다.]]></description>
+            <pubDate>Thu, 20 Nov 2025 09:55:00 +0900</pubDate>
+            <guid isPermaLink="false">6c68021e-0092-4dcd-9d98-be92200e13ce</guid>
+        </item>
+        <item>
+            <title>
+                <![CDATA[[확인필요] 보안검수">
+          <img src="x" onerror=alert(4);>]]></title>
+            <link>https://status.kakaocloud-stg.com/events/d08ca591-a9b1-4f9a-b0f2-2fb22b2659d5</link>
+            <description>
+                <![CDATA[- 영향도: ">
+            <img src="x" onerror=alert(4);>]]></description>
+            <pubDate>Thu, 20 Nov 2025 07:25:35 +0900</pubDate>
+            <guid isPermaLink="false">47dead02-1366-4495-9350-c86eb7ada77c</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vm 생성 오류]]></title>
+            <link>https://status.kakaocloud-stg.com/events/27c60ed3-83e9-4df9-929b-3f951fc0abeb</link>
+            <description><![CDATA[- 장애 현황: Virtual Machine 서비스 신규 생성 불가
+- 진행 상황: 발생 원인 확인 중
+- 다음 업데이트 시간: 22:45]]></description>
+            <pubDate>Wed, 19 Nov 2025 22:14:34 +0900</pubDate>
+            <guid isPermaLink="false">eb6ece58-76bc-4502-9367-41850dc8bb02</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vm 생성 오류]]></title>
+            <link>https://status.kakaocloud-stg.com/events/27c60ed3-83e9-4df9-929b-3f951fc0abeb</link>
+            <description><![CDATA[ㅇㅇㅇ]]></description>
+            <pubDate>Wed, 19 Nov 2025 17:43:41 +0900</pubDate>
+            <guid isPermaLink="false">96cbac41-52e7-4a31-becb-84f74c0ec8d9</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] karen-test event1]]></title>
+            <link>https://status.kakaocloud-stg.com/events/ac92295d-3c76-4ca6-95e4-d0cddda876f5</link>
+            <description><![CDATA[test4]]></description>
+            <pubDate>Wed, 19 Nov 2025 17:26:13 +0900</pubDate>
+            <guid isPermaLink="false">e1de688d-a8c0-45a6-af64-60c033bd5c69</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] CDN 서비스 신규 생성 불가 안내]]></title>
+            <link>https://status.kakaocloud-stg.com/events/2145b4ff-d51c-4247-be49-e1744c0973a5</link>
+            <description><![CDATA[- 영향도: CDN 신규 생성 불가하였고 복구 완료 (예시)]]></description>
+            <pubDate>Wed, 19 Nov 2025 17:02:24 +0900</pubDate>
+            <guid isPermaLink="false">8f82fa79-ce5e-45d4-a206-8df639bf6014</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] karen-test event1]]></title>
+            <link>https://status.kakaocloud-stg.com/events/ac92295d-3c76-4ca6-95e4-d0cddda876f5</link>
+            <description><![CDATA[test3]]></description>
+            <pubDate>Wed, 19 Nov 2025 16:50:29 +0900</pubDate>
+            <guid isPermaLink="false">3ac4e6ed-5351-4d2a-ac33-84bcd59cd2be</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] CDN 서비스 신규 생성 불가 안내]]></title>
+            <link>https://status.kakaocloud-stg.com/events/2145b4ff-d51c-4247-be49-e1744c0973a5</link>
+            <description><![CDATA[- 장애 현황: CDN 신규 생성 불가 현상 복구 완료
+- 진행 상황: 16시 30분 복구 후 모니터링 중
+- 다음 업데이트 시간: 17시 09분]]></description>
+            <pubDate>Wed, 19 Nov 2025 16:39:56 +0900</pubDate>
+            <guid isPermaLink="false">6fcc9cb3-20cc-45bd-a83a-d9b6ef1f82b3</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] CDN 서비스 신규 생성 불가 안내]]></title>
+            <link>https://status.kakaocloud-stg.com/events/2145b4ff-d51c-4247-be49-e1744c0973a5</link>
+            <description><![CDATA[- 영향도: CDN 서비스 신규 생성 불가 현상]]></description>
+            <pubDate>Wed, 19 Nov 2025 16:00:00 +0900</pubDate>
+            <guid isPermaLink="false">e1b077a3-6bc6-4215-b171-4593778fcf61</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] karen-test event1]]></title>
+            <link>https://status.kakaocloud-stg.com/events/ac92295d-3c76-4ca6-95e4-d0cddda876f5</link>
+            <description><![CDATA[test2]]></description>
+            <pubDate>Wed, 19 Nov 2025 15:43:38 +0900</pubDate>
+            <guid isPermaLink="false">84b5410c-4394-4980-8758-b9df76ff96d7</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] karen-test event1]]></title>
+            <link>https://status.kakaocloud-stg.com/events/ac92295d-3c76-4ca6-95e4-d0cddda876f5</link>
+            <description><![CDATA[test1]]></description>
+            <pubDate>Wed, 19 Nov 2025 15:36:24 +0900</pubDate>
+            <guid isPermaLink="false">51d1644f-5ae3-4eaf-99d6-21a0b623d746</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vm 생성 오류]]></title>
+            <link>https://status.kakaocloud-stg.com/events/27c60ed3-83e9-4df9-929b-3f951fc0abeb</link>
+            <description><![CDATA[Virtual Machine 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Wed, 19 Nov 2025 15:33:00 +0900</pubDate>
+            <guid isPermaLink="false">fefe8391-adb7-4389-841d-e2a6e487bc08</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] karen-test event1]]></title>
+            <link>https://status.kakaocloud-stg.com/events/ac92295d-3c76-4ca6-95e4-d0cddda876f5</link>
+            <description><![CDATA[karen-test 서비스 서버에 문제가 발생하여 확인 중입니다.]]></description>
+            <pubDate>Wed, 19 Nov 2025 14:21:15 +0900</pubDate>
+            <guid isPermaLink="false">4c220f8d-eef3-46fd-9dc8-e003b824f046</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] az-c 특정 VPC dns resolving 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/6cbbc46f-cce1-4930-a885-3a5ffd0cf4e5</link>
+            <description><![CDATA[해결 처리]]></description>
+            <pubDate>Tue, 18 Nov 2025 20:12:02 +0900</pubDate>
+            <guid isPermaLink="false">115d6af5-3bb3-4c89-916c-e79f89361c4e</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VPC 신규 생성 불가 장애]]></title>
+            <link>https://status.kakaocloud-stg.com/events/aad7901c-762a-4473-a2bf-454fff93ab83</link>
+            <description><![CDATA[해결 처리]]></description>
+            <pubDate>Tue, 18 Nov 2025 20:11:42 +0900</pubDate>
+            <guid isPermaLink="false">891c47ff-815c-47b8-9087-0f77c742bfb6</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] az-c 특정 VPC dns resolving 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/5e3eec86-c70e-498c-86de-faa9ea379303</link>
+            <description><![CDATA[해결 처리]]></description>
+            <pubDate>Tue, 18 Nov 2025 20:11:25 +0900</pubDate>
+            <guid isPermaLink="false">299fac9c-35e7-4b24-aacf-8302be459a2d</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 미래 시간도 설정됨]]></title>
+            <link>https://status.kakaocloud-stg.com/events/c55a7426-2044-4ad3-8134-8af8e0fe457d</link>
+            <description><![CDATA[해결 처리]]></description>
+            <pubDate>Tue, 18 Nov 2025 20:11:15 +0900</pubDate>
+            <guid isPermaLink="false">87091559-d213-4b23-828a-d62e3f6fea32</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VPC 생성 지연]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e44299e6-bc2d-4f14-8ae8-26bdc634fab0</link>
+            <description><![CDATA[해결 처리]]></description>
+            <pubDate>Tue, 18 Nov 2025 20:10:59 +0900</pubDate>
+            <guid isPermaLink="false">10dfca5d-ec9b-4b6c-a93d-5dc527a3a348</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VPC 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/4a175707-17b5-4a7a-959b-21e95e80094a</link>
+            <description><![CDATA[해결 처리]]></description>
+            <pubDate>Tue, 18 Nov 2025 20:10:50 +0900</pubDate>
+            <guid isPermaLink="false">d122bc7f-e03a-4b40-bcb3-1846b32d43a5</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] TEST 인스턴스 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/9af55c26-b0c7-42fe-8954-73b90b32e14a</link>
+            <description><![CDATA[해결 처리]]></description>
+            <pubDate>Tue, 18 Nov 2025 20:10:41 +0900</pubDate>
+            <guid isPermaLink="false">006a24b4-08f2-4a82-94e2-eecf5a174968</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vm 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/ffbefc0f-3296-40ad-ba2e-b17500262d9e</link>
+            <description><![CDATA[해결 처리]]></description>
+            <pubDate>Tue, 18 Nov 2025 20:10:21 +0900</pubDate>
+            <guid isPermaLink="false">2fbfc798-6b5f-4aa7-a16e-2a7c179f4058</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] june-event-1118]]></title>
+            <link>https://status.kakaocloud-stg.com/events/19b96913-6376-4cff-a476-43d2d12002c3</link>
+            <description><![CDATA[서비스 상태 해결 됨으로 변경]]></description>
+            <pubDate>Tue, 18 Nov 2025 20:08:47 +0900</pubDate>
+            <guid isPermaLink="false">71d89e7a-d2ad-4aae-998e-70f44e123a03</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] june-event-1118]]></title>
+            <link>https://status.kakaocloud-stg.com/events/19b96913-6376-4cff-a476-43d2d12002c3</link>
+            <description><![CDATA[서비스 상태 처리중으로 변경]]></description>
+            <pubDate>Tue, 18 Nov 2025 20:08:28 +0900</pubDate>
+            <guid isPermaLink="false">1963a3f5-53c2-4adc-844d-5722c3da0db6</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] june-event-1118]]></title>
+            <link>https://status.kakaocloud-stg.com/events/19b96913-6376-4cff-a476-43d2d12002c3</link>
+            <description><![CDATA[연관 서비스 상태 변경2]]></description>
+            <pubDate>Tue, 18 Nov 2025 20:05:49 +0900</pubDate>
+            <guid isPermaLink="false">d4b3f1a5-b597-4abd-a3e5-08d32c6d5beb</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] june-event-1118]]></title>
+            <link>https://status.kakaocloud-stg.com/events/19b96913-6376-4cff-a476-43d2d12002c3</link>
+            <description><![CDATA[서비스 추가]]></description>
+            <pubDate>Tue, 18 Nov 2025 20:02:04 +0900</pubDate>
+            <guid isPermaLink="false">6d780e00-2dff-4794-a11e-23333883c877</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] june-event-1118]]></title>
+            <link>https://status.kakaocloud-stg.com/events/19b96913-6376-4cff-a476-43d2d12002c3</link>
+            <description><![CDATA[설명 추가]]></description>
+            <pubDate>Tue, 18 Nov 2025 19:55:00 +0900</pubDate>
+            <guid isPermaLink="false">eafe050b-2501-4d03-a966-9fb481695a00</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] Mananged Service Endpoint에 대한 DNS 응답 지연]]></title>
+            <link>https://status.kakaocloud-stg.com/events/f056dc2f-05a3-4182-9df9-efa53caa0bfd</link>
+            <description><![CDATA[-영향도 : 12시 50분 ~ 13시 15분 발생, 복구 완료]]></description>
+            <pubDate>Tue, 18 Nov 2025 18:25:20 +0900</pubDate>
+            <guid isPermaLink="false">851298b0-6e90-4dab-81b9-f75e3e3f13a1</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] Mananged Service Endpoint에 대한 DNS 응답 지연]]></title>
+            <link>https://status.kakaocloud-stg.com/events/f056dc2f-05a3-4182-9df9-efa53caa0bfd</link>
+            <description><![CDATA[- 장애 현황: 기존 리소스 영향
+- 진행 상황: 발생 원인 확인중
+- 다음 업데이트 시간: 13시 20분]]></description>
+            <pubDate>Tue, 18 Nov 2025 18:24:41 +0900</pubDate>
+            <guid isPermaLink="false">2ec545ce-f1de-4374-be74-b91bb7fb5258</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] Mananged Service Endpoint에 대한 DNS 응답 지연]]></title>
+            <link>https://status.kakaocloud-stg.com/events/f056dc2f-05a3-4182-9df9-efa53caa0bfd</link>
+            <description><![CDATA[- 장애 현황: 기존 리소스 영향
+- 진행 상황: 처리중
+- 다음 업데이트 시간: 13시 05분]]></description>
+            <pubDate>Tue, 18 Nov 2025 18:23:29 +0900</pubDate>
+            <guid isPermaLink="false">69c498ee-1f6f-49a9-bcbd-d14164574028</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] vm 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/ffbefc0f-3296-40ad-ba2e-b17500262d9e</link>
+            <description><![CDATA[Virtual Machine 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Tue, 18 Nov 2025 16:59:17 +0900</pubDate>
+            <guid isPermaLink="false">75bba96a-264f-4fab-aa59-254453a2f583</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM, VM 인스턴스 기반의 Managed Service 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/9e345a04-a24c-4611-95ae-f3bbc9072b4d</link>
+            <description><![CDATA[- 영향도: VM, VM 인스턴스 기반의 Managed Service 신규 생성 불가]]></description>
+            <pubDate>Tue, 18 Nov 2025 16:30:00 +0900</pubDate>
+            <guid isPermaLink="false">ec75e3c8-decd-4fed-a79f-e4ae2d10ffd1</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VPC 생성 지연]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e44299e6-bc2d-4f14-8ae8-26bdc634fab0</link>
+            <description><![CDATA[수정 확인]]></description>
+            <pubDate>Tue, 18 Nov 2025 16:17:55 +0900</pubDate>
+            <guid isPermaLink="false">c20e20b5-2a1b-445a-8346-7c57635cd60d</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] Object Storage 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/60fc1e06-cc88-4813-b6bd-fc5a99eae7cc</link>
+            <description><![CDATA[조치 완료되어 정상 복구 완료되었습니다.]]></description>
+            <pubDate>Tue, 18 Nov 2025 16:12:40 +0900</pubDate>
+            <guid isPermaLink="false">5a845c65-aec5-4e90-a665-07eeb9b344fd</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] Object Storage 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/60fc1e06-cc88-4813-b6bd-fc5a99eae7cc</link>
+            <description><![CDATA[원인 확인하여 현재 조치 중입니다.]]></description>
+            <pubDate>Tue, 18 Nov 2025 16:11:46 +0900</pubDate>
+            <guid isPermaLink="false">9b13915b-a5d7-4c87-8742-3633248de6fc</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM, VM 인스턴스 기반의 Managed Service 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/9e345a04-a24c-4611-95ae-f3bbc9072b4d</link>
+            <description><![CDATA[- 장애 현황: VM, VM 인스턴스 기반의 Managed Service 신규 생성 불가 현상 지속 발생 중
+- 진행 상황: 발생 원인 확인하여 조치 진행 중
+- 다음 업데이트 시간: 16시 00분]]></description>
+            <pubDate>Tue, 18 Nov 2025 16:00:00 +0900</pubDate>
+            <guid isPermaLink="false">2b330794-c9b6-4819-bc2c-742321c81b78</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 네트워크 순단 현상]]></title>
+            <link>https://status.kakaocloud-stg.com/events/3ea328c4-fa29-4413-a037-4d0226f305b0</link>
+            <description><![CDATA[영향도 : 11시 03분 ~ 11시 08분, 네트워크 순단이 간헐적 발생되었고 복구 완료됨]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:47:31 +0900</pubDate>
+            <guid isPermaLink="false">43afd231-f17f-4c87-9040-e391e5a7c7ff</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 네트워크 순단 현상]]></title>
+            <link>https://status.kakaocloud-stg.com/events/3ea328c4-fa29-4413-a037-4d0226f305b0</link>
+            <description><![CDATA[영향도 : 11시 03분 ~ 네트워크 순단이 간헐적 발생되었음 ]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:46:53 +0900</pubDate>
+            <guid isPermaLink="false">3bb12920-d91d-45ce-b32c-150fb5c623e5</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 콘솔에서 특정 페이지 조회 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/c1d7330d-c385-4ea8-9f2e-813236621297</link>
+            <description><![CDATA[17시 45분 조치 완료]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:44:44 +0900</pubDate>
+            <guid isPermaLink="false">60a1cb82-fdac-4395-820a-9dcbf8f753bc</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 콘솔에서 특정 페이지 조회 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/c1d7330d-c385-4ea8-9f2e-813236621297</link>
+            <description><![CDATA[17시 45분 조치 완료]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:44:17 +0900</pubDate>
+            <guid isPermaLink="false">1f303c5b-8a54-4d2d-9398-31c28983ed65</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] Memstore 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/124a2bf1-e459-42e5-98b5-e5e2871298d4</link>
+            <description><![CDATA[해결 완료]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:42:49 +0900</pubDate>
+            <guid isPermaLink="false">3d6d4fe7-29fe-460c-9b50-7309b78d66a7</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 콘솔에서 특정 페이지 조회 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/c1d7330d-c385-4ea8-9f2e-813236621297</link>
+            <description><![CDATA[- 장애 현황: 콘솔 VM 목록 조회 불가
+- 진행 상황: 조치 후 모니터링중
+- 다음 업데이트 시간: 16시 01분]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:41:38 +0900</pubDate>
+            <guid isPermaLink="false">5e0be607-378b-41ff-aeeb-31ca30f82a25</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 콘솔에서 특정 페이지 조회 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/c1d7330d-c385-4ea8-9f2e-813236621297</link>
+            <description><![CDATA[영향도 : 17시 05분 ~ 콘솔 특정 페이지 조회 불가 (VM 목록 조회 불가) ]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:40:29 +0900</pubDate>
+            <guid isPermaLink="false">2ceddc34-9fa7-4690-ae9e-02ebc8e789bf</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/a068912b-b9f0-479f-9154-412f73551bd8</link>
+            <description><![CDATA[- 영향도 : 15시 40분 VM 복구]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:40:00 +0900</pubDate>
+            <guid isPermaLink="false">8f004928-7fa2-4e45-b80a-a2769cf3eb0f</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] Memstore 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/124a2bf1-e459-42e5-98b5-e5e2871298d4</link>
+            <description><![CDATA[MemStore 서비스가 정상적으로 생성되지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:38:24 +0900</pubDate>
+            <guid isPermaLink="false">9d0d3b16-0f3e-4696-baf4-7764b69c1669</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] Object Storage 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/60fc1e06-cc88-4813-b6bd-fc5a99eae7cc</link>
+            <description><![CDATA[Object Storage 서비스 신규 생성 불가 오류와 Load Balancing 서비스도 신규 생성 불가 오류가 추가로 발생하여, 현재 확인 중입니다.]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:37:44 +0900</pubDate>
+            <guid isPermaLink="false">c072f29a-2388-42f9-b9d4-541ccb548bb6</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 콘솔 로그인 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/61838e73-9e74-405c-87ba-8cca46bd97c0</link>
+            <description><![CDATA[영향도 : 10시 07분 ~ 10시 37분까지 콘솔 로그인 불가했고, 복구 완료]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:36:15 +0900</pubDate>
+            <guid isPermaLink="false">c8c9b999-0fe6-488f-9cca-10ecfbbd31c4</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] Object Storage 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/60fc1e06-cc88-4813-b6bd-fc5a99eae7cc</link>
+            <description><![CDATA[Object Storage 서비스 신규 생성 불가 오류가 발생하여, 현재 확인 중 입니다.]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:35:05 +0900</pubDate>
+            <guid isPermaLink="false">b5eed6c7-3839-47b2-b434-098b114e73f8</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 콘솔 로그인 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/61838e73-9e74-405c-87ba-8cca46bd97c0</link>
+            <description><![CDATA[- 장애 현황: 콘솔 로그인 불가
+- 진행 상황: 조치중
+- 다음 업데이트 시간: 16시]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:34:54 +0900</pubDate>
+            <guid isPermaLink="false">9e927dd3-d129-47d0-afea-16b26b08629e</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 콘솔 로그인 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/61838e73-9e74-405c-87ba-8cca46bd97c0</link>
+            <description><![CDATA[영향도 : 10시 07분 ~ 콘솔 로그인 불가 ]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:30:00 +0900</pubDate>
+            <guid isPermaLink="false">2e09ef5f-9723-4e55-8509-baaf5200e7a9</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM, VM 인스턴스 기반의 Managed Service 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/9e345a04-a24c-4611-95ae-f3bbc9072b4d</link>
+            <description><![CDATA[- 장애 현황: VM, VM 인스턴스 기반의 Managed Service 신규 생성 불가 현상 지속 발생 중
+- 진행 상황: 발생 원인 확인하여 조치 진행 중
+- 다음 업데이트 시간: 16시 00분]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:30:00 +0900</pubDate>
+            <guid isPermaLink="false">c3975de1-7d60-44a7-a6bc-020dc8279c69</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] TEST 인스턴스 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/9af55c26-b0c7-42fe-8954-73b90b32e14a</link>
+            <description><![CDATA[Virtual Machine 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:24:52 +0900</pubDate>
+            <guid isPermaLink="false">48c8de8e-aa1e-42db-9c27-2615590d9d14</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VPC 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/4a175707-17b5-4a7a-959b-21e95e80094a</link>
+            <description><![CDATA[VPC 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:18:51 +0900</pubDate>
+            <guid isPermaLink="false">3ecd03f3-dbdc-4eb3-aab0-9320defb3ab7</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VPC 생성 지연]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e44299e6-bc2d-4f14-8ae8-26bdc634fab0</link>
+            <description><![CDATA[엘비 수정]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:13:32 +0900</pubDate>
+            <guid isPermaLink="false">bf104879-a6b5-42e5-9218-5f247fd03951</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VPC 생성 지연]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e44299e6-bc2d-4f14-8ae8-26bdc634fab0</link>
+            <description><![CDATA[베어메탈 수정]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:13:13 +0900</pubDate>
+            <guid isPermaLink="false">1afeb352-c253-42d9-9613-bef4bd12aa6b</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM, VM 인스턴스 기반의 Managed Service 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/9e345a04-a24c-4611-95ae-f3bbc9072b4d</link>
+            <description><![CDATA[- 영향도: VM, VM 인스턴스 기반의 Managed Service 신규 생성 불가
+- 상세 서비스: VM, Bare Metal Server, GPU, Kubernetes Engine, MySQL, PostgreSQL, MemStore, File Storage, Hadoop Eco, Advanced Managed Kafka]]></description>
+            <pubDate>Tue, 18 Nov 2025 15:00:00 +0900</pubDate>
+            <guid isPermaLink="false">e4371f03-ce5b-4f25-b372-31230c2f5811</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/a068912b-b9f0-479f-9154-412f73551bd8</link>
+            <description><![CDATA[- 장애 현황: 14시 40분 ~ 15시 40분 VPC 복구
+- 진행 상황: VM 조치중
+- 다음 업데이트 시간: +N분]]></description>
+            <pubDate>Tue, 18 Nov 2025 14:56:35 +0900</pubDate>
+            <guid isPermaLink="false">97277033-8977-4ff9-9cae-a10f35149f3e</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/a068912b-b9f0-479f-9154-412f73551bd8</link>
+            <description><![CDATA[영향도 : 14시 40분에 VPC도 생성 불가함 확인]]></description>
+            <pubDate>Tue, 18 Nov 2025 14:51:49 +0900</pubDate>
+            <guid isPermaLink="false">2ecd8bbb-5655-4ccd-b291-17e7905e3699</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/33cc4c30-228e-4565-a8b9-8a29a1bdc7c1</link>
+            <description><![CDATA[영향도 : 복구]]></description>
+            <pubDate>Tue, 18 Nov 2025 14:30:00 +0900</pubDate>
+            <guid isPermaLink="false">7ce13f5b-d02b-429a-8a9c-2fe5291b9077</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/a068912b-b9f0-479f-9154-412f73551bd8</link>
+            <description><![CDATA[VM 신규 생성 불가]]></description>
+            <pubDate>Tue, 18 Nov 2025 14:23:00 +0900</pubDate>
+            <guid isPermaLink="false">b281fb54-d334-482a-8420-054a2e6981c7</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VPC 생성 지연]]></title>
+            <link>https://status.kakaocloud-stg.com/events/e44299e6-bc2d-4f14-8ae8-26bdc634fab0</link>
+            <description><![CDATA[VPC 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Tue, 18 Nov 2025 14:23:00 +0900</pubDate>
+            <guid isPermaLink="false">cfc8246a-493a-4e0f-9c6d-1ea46bfd227a</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/33cc4c30-228e-4565-a8b9-8a29a1bdc7c1</link>
+            <description><![CDATA[VPC 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Tue, 18 Nov 2025 13:05:00 +0900</pubDate>
+            <guid isPermaLink="false">91a2e9d3-8ec3-426d-887f-6c00009a1b21</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] Mananged Service Endpoint에 대한 DNS 응답 지연]]></title>
+            <link>https://status.kakaocloud-stg.com/events/f056dc2f-05a3-4182-9df9-efa53caa0bfd</link>
+            <description><![CDATA[영향도 : Mananged Service Endpoint에 대한 DNS 응답 지연]]></description>
+            <pubDate>Tue, 18 Nov 2025 12:50:00 +0900</pubDate>
+            <guid isPermaLink="false">6c7d69e5-10f6-40d8-84f9-77caa62bee46</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM, LB 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/151828d7-a787-4740-824b-81b261e60f38</link>
+            <description><![CDATA[- 영향도: VM, LB 신규 생성 불가 (기존 리소스 영향 없음)]]></description>
+            <pubDate>Tue, 18 Nov 2025 11:40:00 +0900</pubDate>
+            <guid isPermaLink="false">f3d82228-8645-46b7-9278-44a00097deeb</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM, Load Balancing 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/b23ed09f-4c7d-4923-9e17-51bcb14cd936</link>
+            <description><![CDATA[- 장애 현황: VM, LB 신규 생성 불가
+- 진행 상황: 원인 파악하여 조치중
+- 다음 업데이트 시간: 12:10]]></description>
+            <pubDate>Tue, 18 Nov 2025 11:40:00 +0900</pubDate>
+            <guid isPermaLink="false">4d09fb44-7338-4835-ab06-32d716ef829f</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] 미래 시간도 설정됨]]></title>
+            <link>https://status.kakaocloud-stg.com/events/c55a7426-2044-4ad3-8134-8af8e0fe457d</link>
+            <description><![CDATA[MemStore 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Tue, 18 Nov 2025 11:39:00 +0900</pubDate>
+            <guid isPermaLink="false">82f2d755-9ed5-4416-b62b-207cafdd2096</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM, VM 인스턴스 기반의 managed service 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/ef01db75-e187-49bf-9353-5048f98d0f75</link>
+            <description><![CDATA[복구되어 정상화]]></description>
+            <pubDate>Tue, 18 Nov 2025 11:33:50 +0900</pubDate>
+            <guid isPermaLink="false">8c3b4bcf-c7ed-47d1-9f4d-4c3974b903a2</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM, LB 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/151828d7-a787-4740-824b-81b261e60f38</link>
+            <description><![CDATA[- 장애 현황: VM, LB 신규 생성 불가 현상 지속 발생 중
+- 진행 상황: 발생 원인 확인하여 조치 진행 중
+- 다음 업데이트 시간: 12시 00분]]></description>
+            <pubDate>Tue, 18 Nov 2025 11:30:00 +0900</pubDate>
+            <guid isPermaLink="false">9f8567d3-695c-4ee4-81c0-76a75b9fb92c</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM, LB 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/151828d7-a787-4740-824b-81b261e60f38</link>
+            <description><![CDATA[- 장애 현황: VM, LB 신규 생성 불가 현상 지속 발생 중
+- 진행 상황: 발생 원인 확인하여 조치 진행 중
+- 다음 업데이트 시간: 12시 00분]]></description>
+            <pubDate>Tue, 18 Nov 2025 11:30:00 +0900</pubDate>
+            <guid isPermaLink="false">e9817138-f977-4e44-b398-8462615caa53</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM, VM 인스턴스 기반의 managed service 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/ef01db75-e187-49bf-9353-5048f98d0f75</link>
+            <description><![CDATA[연관 서비스 테스트]]></description>
+            <pubDate>Tue, 18 Nov 2025 11:28:05 +0900</pubDate>
+            <guid isPermaLink="false">88f36916-2f9f-4d04-b473-c2844871a381</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM, VM 인스턴스 기반의 managed service 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/ef01db75-e187-49bf-9353-5048f98d0f75</link>
+            <description><![CDATA[영향도 : VM, VM 인스턴스 기반의 managed service 신규 생성 불가]]></description>
+            <pubDate>Tue, 18 Nov 2025 11:23:34 +0900</pubDate>
+            <guid isPermaLink="false">e3e7543d-4777-4eb9-92a8-8ff57b0b0fba</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM, Load Balancing 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/b23ed09f-4c7d-4923-9e17-51bcb14cd936</link>
+            <description><![CDATA[복구 완료]]></description>
+            <pubDate>Tue, 18 Nov 2025 11:20:17 +0900</pubDate>
+            <guid isPermaLink="false">15b111f6-e357-4643-9a6e-3d0df41044bc</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM, Load Balancing 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/b23ed09f-4c7d-4923-9e17-51bcb14cd936</link>
+            <description><![CDATA[VM, Load Balancing 신규 생성 불가 장애
+메인 서비스 다중 등록이 불가하여...
+1. 메인 서비스를 다중 선택 가능하도록 개선 요청한다. (불가할 수도 있긴함)
+2. 메인 1개 걸고, 나머지는 연관 서비스로 선택하고 설명을 잘 쓴다...?
+3. 신규 이벤트 등록을 여러개 한다.]]></description>
+            <pubDate>Tue, 18 Nov 2025 11:10:56 +0900</pubDate>
+            <guid isPermaLink="false">263180cd-b837-4800-aa32-aabc8f844166</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] az-c 특정 VPC dns resolving 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/5e3eec86-c70e-498c-86de-faa9ea379303</link>
+            <description><![CDATA[LB는 서비스 영향도 없는 것으로 확인되었음]]></description>
+            <pubDate>Tue, 18 Nov 2025 11:10:10 +0900</pubDate>
+            <guid isPermaLink="false">6fa4de40-d575-47a2-836b-fede6849f537</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] az-c 특정 VPC dns resolving 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/5e3eec86-c70e-498c-86de-faa9ea379303</link>
+            <description><![CDATA[LB 서비스 상태- 해결됨으로 연관 서비스 추가 테스트]]></description>
+            <pubDate>Tue, 18 Nov 2025 11:06:55 +0900</pubDate>
+            <guid isPermaLink="false">ad6fb591-9c3c-419f-9083-c46b5d6e0ce0</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] az-c 특정 VPC dns resolving 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/5e3eec86-c70e-498c-86de-faa9ea379303</link>
+            <description><![CDATA[- 장애 현황: az-c 특정 vpc에서 dns resolving 불가
+- 진행 상황: 조치중
+- 다음 업데이트 시간: 11:30]]></description>
+            <pubDate>Tue, 18 Nov 2025 11:00:58 +0900</pubDate>
+            <guid isPermaLink="false">dc5d3457-e9dd-4d91-8d61-d416ba9ce4ee</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM, LB 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/151828d7-a787-4740-824b-81b261e60f38</link>
+            <description><![CDATA[- 영향도: VM, LB 신규 생성 불가 (기존 리소스 영향 없음)]]></description>
+            <pubDate>Tue, 18 Nov 2025 11:00:00 +0900</pubDate>
+            <guid isPermaLink="false">2d8be225-fdaf-4617-a5b1-5ea10b2e09db</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] az-c 특정 VPC dns resolving 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/5e3eec86-c70e-498c-86de-faa9ea379303</link>
+            <description><![CDATA[az-c 특정 vpc에서 dns resolving 불가 ]]></description>
+            <pubDate>Tue, 18 Nov 2025 10:48:30 +0900</pubDate>
+            <guid isPermaLink="false">8f7162ca-24f4-456b-a075-cd549a19757c</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VPC 신규 생성 불가 장애]]></title>
+            <link>https://status.kakaocloud-stg.com/events/aad7901c-762a-4473-a2bf-454fff93ab83</link>
+            <description><![CDATA[- 영향도: VPC 생성/변경/삭제 불가]]></description>
+            <pubDate>Tue, 18 Nov 2025 10:37:12 +0900</pubDate>
+            <guid isPermaLink="false">eed5bb82-8591-4ac8-8ff4-4ee515601d1d</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VPC 신규 생성 불가 장애]]></title>
+            <link>https://status.kakaocloud-stg.com/events/aad7901c-762a-4473-a2bf-454fff93ab83</link>
+            <description><![CDATA[- 영향도: VPC 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Tue, 18 Nov 2025 10:34:13 +0900</pubDate>
+            <guid isPermaLink="false">10386052-e427-405e-aa9b-8a3515857a77</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM 인스턴스 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/c9346ef4-bc01-429e-9bdc-00f6aafe8b8c</link>
+            <description><![CDATA[- 영향도: VM 인스턴스 신규 생성 불가]]></description>
+            <pubDate>Tue, 18 Nov 2025 00:45:00 +0900</pubDate>
+            <guid isPermaLink="false">904f1bdb-cd97-4e7b-89b7-965ad63dfcb5</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM 인스턴스 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/c9346ef4-bc01-429e-9bdc-00f6aafe8b8c</link>
+            <description><![CDATA[- 장애 현황: VM 인스턴스 신규 생성 불가 현상 지속 발생 중
+- 진행 상황: 조치 후 모니터링 중
+- 다음 업데이트 시간: 01시 05분]]></description>
+            <pubDate>Tue, 18 Nov 2025 00:35:00 +0900</pubDate>
+            <guid isPermaLink="false">63e3766c-aff4-4b06-8052-2053a998ab12</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM 인스턴스 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/c9346ef4-bc01-429e-9bdc-00f6aafe8b8c</link>
+            <description><![CDATA[- 장애 현황: VM 인스턴스 신규 생성 불가 현상 지속 발생 중
+- 진행 상황: 발생 원인 확인하여 조치 진행 중
+- 다음 업데이트 시간: 00시 35분]]></description>
+            <pubDate>Tue, 18 Nov 2025 00:05:00 +0900</pubDate>
+            <guid isPermaLink="false">15bff00f-c48c-432f-9b6c-dfa3a4a9f261</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] VM 인스턴스 신규 생성 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/c9346ef4-bc01-429e-9bdc-00f6aafe8b8c</link>
+            <description><![CDATA[- 영향도: VM 인스턴스 신규 생성 불가]]></description>
+            <pubDate>Mon, 17 Nov 2025 23:35:00 +0900</pubDate>
+            <guid isPermaLink="false">7ca05eb1-eaa0-4d1a-8770-baeb6d9a8213</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] az-c 특정 VPC dns resolving 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/6cbbc46f-cce1-4930-a885-3a5ffd0cf4e5</link>
+            <description><![CDATA[- 장애 현황: az-c 특정 VPC dns resolving 불가 지속 발생 중
+- 진행 상황: 발생 원인 확인하여 조치 진행 중
+- 다음 업데이트 시간: 21시 08분]]></description>
+            <pubDate>Mon, 17 Nov 2025 20:38:00 +0900</pubDate>
+            <guid isPermaLink="false">e526cb55-ff4d-4983-a4ff-7b9ddff8f087</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] az-c 특정 VPC dns resolving 불가]]></title>
+            <link>https://status.kakaocloud-stg.com/events/6cbbc46f-cce1-4930-a885-3a5ffd0cf4e5</link>
+            <description><![CDATA[- 영향도: az-c 특정 VPC dns resolving 불가]]></description>
+            <pubDate>Mon, 17 Nov 2025 20:08:00 +0900</pubDate>
+            <guid isPermaLink="false">2a05e689-5589-4505-821d-0ad4ac34daa6</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] june-event-1118]]></title>
+            <link>https://status.kakaocloud-stg.com/events/19b96913-6376-4cff-a476-43d2d12002c3</link>
+            <description><![CDATA[연관 서비스 상태변경]]></description>
+            <pubDate>Mon, 17 Nov 2025 20:05:20 +0900</pubDate>
+            <guid isPermaLink="false">c57d5076-fb46-48a4-ab72-bfc8df83dd32</guid>
+        </item>
+        <item>
+            <title><![CDATA[[해결 됨] june-event-1118]]></title>
+            <link>https://status.kakaocloud-stg.com/events/19b96913-6376-4cff-a476-43d2d12002c3</link>
+            <description><![CDATA[june-service 서비스가 정상적으로 동작하지 않아, 현재 확인 중 입니다.]]></description>
+            <pubDate>Mon, 17 Nov 2025 19:54:43 +0900</pubDate>
+            <guid isPermaLink="false">05f83f20-4c05-4e8f-8a4b-03500b98f3ca</guid>
+        </item>
+    </channel>
+</rss>
