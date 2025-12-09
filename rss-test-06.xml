@@ -20,5 +20,12 @@
             <pubDate>Fri, 05 Dec 2025 17:50:00 +0900</pubDate>
             <guid isPermaLink="false">uuid-efe8ea1c-de4c-4721-8601-451a4786c8bf</guid>
         </item>
+        <item>
+            <title><![CDATA[[해결 됨] 과거 시작시간으로 설정한 이벤트 생성하면]]></title>
+            <link>https://status.kakaocloud.com/events/6116b078-58e9-411b-ac03-526900521e39</link>
+            <description><![CDATA[- 영향도: CDN 신규 생성 실패]]></description>
+            <pubDate>Fri, 03 Dec 2025 18:15:00 +0900</pubDate>
+            <guid isPermaLink="false">uuid-new-35b043a0-99fc-4d62-ba7b-5829d95715a4</guid>
+        </item>
     </channel>
 </rss>
