@@ -4,8 +4,9 @@
         <link>https://status.kakaocloud.com</link>
         <description><![CDATA[카카오클라우드 Status Board 서비스는 카카오 클라우드 서비스 상태를 실시간으로 확인할 수 있습니다. 서비스 상태와 관련된 이슈 이벤트에 대한 정보가 실시간 반영되어 빠르게 확인할 수 있습니다.]]></description>
         <language>ko</language>
-        <lastBuildDate>Fri, 05 Dec 2025 18:15:00 +0900</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 20:53:15 +0900</lastBuildDate>
         <generator>Status Board Service RSS Generator</generator>
+
         <item>
             <title><![CDATA[[해결 됨] CDN 신규 생성 실패]]></title>
             <link>https://status.kakaocloud.com/events/6116b078-58e9-411b-ac03-526900521e39</link>
@@ -13,12 +14,13 @@
             <pubDate>Fri, 05 Dec 2025 18:15:00 +0900</pubDate>
             <guid isPermaLink="false">uuid-35b043a0-99fc-4d62-ba7b-5829d95715a4</guid>
         </item>
+
         <item>
-            <title><![CDATA[[확인 필요] CDN 신규 생성 실패]]></title>
+            <title><![CDATA[[해결 됨] CDN 신규 생성 실패]]></title>
             <link>https://status.kakaocloud.com/events/6116b078-58e9-411b-ac03-526900521e39</link>
-            <description><![CDATA[- 영향도: CDN 신규 생성 실패]]></description>
-            <pubDate>Fri, 05 Dec 2025 17:50:00 +0900</pubDate>
+            <description><![CDATA[- 영향도: CDN 신규 생성 실패 (조치 완료되었습니다.)]]></description>
+            <pubDate>Thu, 05 Mar 2026 20:53:15 +0900</pubDate>
             <guid isPermaLink="false">uuid-efe8ea1c-de4c-4721-8601-451a4786c8bf</guid>
         </item>
-    </channel>
+        </channel>
 </rss>
